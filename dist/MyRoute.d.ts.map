@@ -1,0 +1,1 @@
+{"version":3,"file":"MyRoute.d.ts","sourceRoot":"","sources":["../src/MyRoute.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAE1B,KAAK,aAAa,GAAG;IACnB,SAAS,EAAE,KAAK,CAAC,SAAS,CAAC;IAC3B,QAAQ,EAAE,MAAM,CAAC;CAClB,CAAC;AACF,eAAO,MAAM,OAAO,4BAA6B,aAAa,4CAE7D,CAAC;AAEF,eAAe,OAAO,CAAC"}
